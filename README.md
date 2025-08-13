@@ -1,2 +1,1 @@
-# bookbot
-README.MD
+README.md
